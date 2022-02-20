@@ -402,6 +402,20 @@ main {
           flex-grow: 1;
 }
 
+.box {
+  width: 100%;
+}
+
+.box p {
+  font-size: 50px;
+  margin: 0;
+  text-align: center;
+}
+
+.box__img {
+  width: 100%;
+}
+
 .container {
   max-width: 1320px;
   margin-left: auto;
